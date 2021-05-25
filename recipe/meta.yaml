@@ -1,4 +1,4 @@
-{% set version = '0.2.1.1' %}
+{% set version = "0.2.1.1" %}
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
 
@@ -14,9 +14,8 @@ source:
 
 build:
   noarch: generic
-  merge_build_host: True  # [win]
+  merge_build_host: true  # [win]
   number: 1002
-  noarch: generic
   rpaths:
     - lib/R/lib/
     - lib/
@@ -39,8 +38,7 @@ test:
 about:
   home: http://www.smu.edu/Cox/Departments/FacultyDirectory/BraunMichael
   license: MPL (>= 2.0)
-  summary: Computes multivariate normal (MVN) densities, and samples from MVN distributions,
-    when the covariance or precision matrix is sparse.
+  summary: Computes multivariate normal (MVN) densities, and samples from MVN distributions, when the covariance or precision matrix is sparse.
   license_family: OTHER
 
 extra:
