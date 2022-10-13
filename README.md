@@ -3,7 +3,7 @@ About r-sparsemvn
 
 Home: http://www.smu.edu/Cox/Departments/FacultyDirectory/BraunMichael
 
-Package license: MPL (>= 2.0)
+Package license: MPL-2.0
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-sparsemvn-feedstock/blob/main/LICENSE.txt)
 
