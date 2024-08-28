@@ -3,11 +3,13 @@ About r-sparsemvn-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-sparsemvn-feedstock/blob/main/LICENSE.txt)
 
-Home: http://www.smu.edu/Cox/Departments/FacultyDirectory/BraunMichael
+Home: https://braunm.github.io/sparseMVN/
 
-Package license: MPL (>= 2.0)
+Package license: MPL-2.0
 
 Summary: Computes multivariate normal (MVN) densities, and samples from MVN distributions, when the covariance or precision matrix is sparse.
+
+Development: https://github.com/braunm/sparseMVN/
 
 Current build status
 ====================
